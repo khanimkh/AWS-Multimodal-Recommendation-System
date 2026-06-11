@@ -1,1 +1,0 @@
-# AWS-Multimodal-Recommendation-System
